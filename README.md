@@ -8,6 +8,6 @@
 **T._.on 봇 서포트 서버 가기**   
 **__https://discord.gg/hJRKtZPGP2__**   
   
-**모든 문의나 질문은 Discord / *Tionlab02#1234* 로!
+**모든 문의나 질문은 Discord / *Tionlab02#1234* 로!**
 
-``` 🔴 Admin ``` ``` ⚪ Tion Bot Dev ```
+``` 🔴 Admin ```  ``` ⚪ Tion Bot Dev ```
