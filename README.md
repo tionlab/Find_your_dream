@@ -7,5 +7,5 @@
 \n
 **Tion 봇 서포트 서버 가기 ** \n
 **__https://discord.gg/hJRKtZPGP2__** \n
-\n
+/n
 ``` ⚪ Tion Bot Dev ```
