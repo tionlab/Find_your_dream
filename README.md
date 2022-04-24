@@ -5,7 +5,7 @@
 **Tion 봇 서버 초대하기**  
 **__https://bit.ly/invite_tion__**
 
-**Tion 봇 서포트 서버 가기 **   
+**Tion 봇 서포트 서버 가기**   
 **__https://discord.gg/hJRKtZPGP2__** 
 
 ``` ⚪ Tion Bot Dev ```
