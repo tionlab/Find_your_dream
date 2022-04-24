@@ -1,5 +1,5 @@
 module.exports = {
-    name:"화이자",
+    name:"테스트,
     execute(message){
         const embeding = new (require("discord.js")).MessageEmbed()
             .setTitle("성공")
