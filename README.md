@@ -7,8 +7,8 @@
 **__https://bit.ly/invite_tion__**
   
 **T._.on 봇 서포트 서버 가기**   
-**__https://discord.gg/hJRKtZPGP2__**   
+서버 테러로 인해 폭파된 상태입니다.
   
-**모든 문의나 질문은 Discord / *Tionlab02#1234* 로!**
+**모든 문의나 질문은 Discord / Lover#2023 로!**
 
 ``` 🔴 Admin ```  ``` ⚪ Tion Bot Dev ```
